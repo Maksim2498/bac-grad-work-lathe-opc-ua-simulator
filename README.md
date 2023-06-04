@@ -1,3 +1,3 @@
-# Симулятор токарного станка
+# OPC UA Lathe Simulator
 
-Данный симулятор был написан для моей ВКР.
+Something will be written here soon...
