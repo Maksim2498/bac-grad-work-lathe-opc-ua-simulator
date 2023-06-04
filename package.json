@@ -1,0 +1,28 @@
+{
+  "name": "bac-grad-work",
+  "version": "1.0.0",
+  "description": "My bachelor graduate work",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production ts-node -r tsconfig-paths/register src/index.ts",
+    "start:dev": "ts-node -r tsconfig-paths/register src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maksim2498/bac-grad-work.git"
+  },
+  "author": "Maksim Victorovich Fomin",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/Maksim2498/bac-grad-work/issues"
+  },
+  "homepage": "https://github.com/Maksim2498/bac-grad-work#readme",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "cross-env": "^7.0.3",
+    "node-opcua": "^2.100.0",
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.0.4",
+    "winston": "^3.9.0"
+  }
+}
