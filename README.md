@@ -1,3 +1,3 @@
-# Lathe OPC UA Emulator
+# Симулятор токарного станка
 
-Small lathe OPC UA emulator.
+Данный эмулятор был написан для моей ВКР.
